@@ -1,0 +1,38 @@
+#go-radio {
+}
+
+#input-artist {
+    margin-top:10px;
+}
+
+#seed-artist {
+    margin-left:20px;
+}
+
+.title {
+    width:450px;
+    height:40px;
+    overflow:hidden;
+}
+
+.artist {
+    width:450px;
+    height:28px;
+    overflow:hidden;
+}
+
+
+.my-gauge {
+    width:400px;
+    height:300px;
+}
+
+.my-gauge2 {
+    width:400px;
+    height:300px;
+}
+
+#error {
+    color:red;
+    font-weight:bold;
+}
